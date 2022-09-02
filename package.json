@@ -106,7 +106,7 @@
     "sortablejs": "^1.15.0",
     "st-multi-sort": "^1.1.2",
     "tether-drop": "^1.4.2",
-    "underscore": "^1.13.2",
+    "underscore": "^1.13.4",
     "uuid": "^8.3.2"
   }
 }
