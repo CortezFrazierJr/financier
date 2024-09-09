@@ -1569,12 +1569,10 @@
     "@typescript-eslint/types" "5.20.0"
     eslint-visitor-keys "^3.0.0"
 
-"@uirouter/angularjs@^0.4.1":
-  version "0.4.3"
-  resolved "https://registry.yarnpkg.com/@uirouter/angularjs/-/angularjs-0.4.3.tgz#7e2630c59b2bd69ca485ff124f53b0169edddf39"
-  integrity sha512-jLmZ+VcsvS63E01wJWEqNLND6/6Ju9dZP6t21T+v6q8s9+Xzr8RX6QrrnRt35S0ARugFwJxFlmNFZSIef3jvDw==
-  dependencies:
-    angular "^1.0.8"
+"@uirouter/angularjs@^1.0.0":
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/@uirouter/angularjs/-/angularjs-1.1.1.tgz#3385bc0cd6068fc9fbb0b91cc06c697542b3639c"
+  integrity sha512-Ucsf8BFeyB8xykaxzEOec6amp+x83HxuDgU79xLi5A9029RpW+Zh9jhFTwLQq+9zm/KTkxisjDWJFuypQUTCYQ==
 
 "@webassemblyjs/ast@1.11.1":
   version "1.11.1"
@@ -1928,7 +1926,7 @@ angular-vs-repeat@^1.1.7:
   resolved "https://registry.yarnpkg.com/angular-vs-repeat/-/angular-vs-repeat-1.1.11.tgz#47d94358d03c9acea2cb346cfbb7ac6675a06b2b"
   integrity sha512-sv3K5qA0K1X3WcRbDr3teZAOfyxwjTMqMEgv4IAjrXW47yII5y2bPjH23CmHYuUufvm4+jr3pQZOvcFBBFsRPg==
 
-angular@^1.0.8, angular@^1.5.9, angular@^1.6.4, angular@^1.8.0:
+angular@^1.5.9, angular@^1.6.4, angular@^1.8.0:
   version "1.8.3"
   resolved "https://registry.yarnpkg.com/angular/-/angular-1.8.3.tgz#851ad75d5163c105a7e329555ef70c90aa706894"
   integrity sha512-5qjkWIQQVsHj4Sb5TcEs4WZWpFeVFHXwxEBHUhrny41D8UrBAd6T/6nPPAsLngJCReIOqi95W3mxdveveutpZw==
